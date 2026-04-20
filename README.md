@@ -59,4 +59,5 @@ Workforce Strategy:
 Helps HR teams:
 Reduce hiring costs
 Improve employee satisfaction
-Plan retention strategies effectively
+Plan retention strategies effectively                                                                                                  
+https://github.com/divya-gupta31/HR_Analytics_Dashboard/blob/main/HR_Analytics.png
